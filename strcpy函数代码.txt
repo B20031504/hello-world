@@ -9,3 +9,14 @@ char* StrCpy(char* src)
 	dst[len] = '\0';
 	return dst;
 }
+/*/*/*/*/*/*
+
+strcpy函数代码
+
+*/*/*/*/*/*/
+
+/**
+
+本地编辑
+
+**/
